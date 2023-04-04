@@ -1,0 +1,94 @@
+=== System === 
+
+--- System Info ---
+Snapshot Time: 3/30/23, 8:09:01 PM EDT
+Board Name: relm
+Marketing Name: 
+CpuModel Name: Intel(R) Celeron(R) CPU  N3060  @ 1.60GHz
+Total Memory (kib): 3979160
+Thread Count:  2
+Cpu Max Clock Speed (kHz):  2480000
+Version: 103.14816.0
+Has Battery: true
+
+--- Battery Charge Status ---
+Battery State: kCharging
+Power Source: kAc
+Power Time: 18 minutes
+Current Now (mA): 1823
+Chage Now (mAh): 2564
+
+--- Battery Health ---
+Charge Full Now (mAh): 3207
+Charge Full Design (mAh): 4050
+Cycle Count: 103
+Wear Percentage: 79
+
+--- Memory Usage ---
+Total Memory (kib): 3979160
+Available Memory (kib): 1981696
+Free Memory (kib): 244252
+
+--- Cpu Usage ---
+Usage User (%): 66
+Usage System (%): 30
+Usage Free (%): 2
+Avg Temp (C): 56
+Current scaled frequency (kHz): 2462868
+
+
+--- Test Routines --- 
+
+No routines of this type were run in the session.
+
+=== Networking === 
+
+--- Network Info ---
+
+Name: Williams wifi
+Type: WiFi
+State: Online
+Active: True
+MAC Address: D0:57:7B:C0:23:3F
+Signal Strength: 85
+Frequency: 2462
+SSID: Williams wifi
+BSSID: A8:A7:95:E8:33:53
+Security: PSK (WPA or RSN)
+Gateway: 192.168.0.1
+IP Address: 192.168.0.11
+Name Servers: 209.18.47.62, 209.18.47.63
+Subnet Mask: 255.255.255.0
+
+--- Test Routines --- 
+
+3/30/23, 8:08:08 PM - GatewayCanBePinged - Started
+3/30/23, 8:08:09 PM - GatewayCanBePinged - Failed
+3/30/23, 8:08:09 PM - LanConnectivity - Started
+3/30/23, 8:08:10 PM - LanConnectivity - Passed
+3/30/23, 8:08:10 PM - ArcPing - Started
+3/30/23, 8:08:15 PM - Inflight Routine Cancelled
+3/30/23, 8:08:42 PM - GatewayCanBePinged - Started
+3/30/23, 8:08:46 PM - GatewayCanBePinged - Failed
+3/30/23, 8:08:46 PM - LanConnectivity - Started
+3/30/23, 8:08:47 PM - LanConnectivity - Passed
+3/30/23, 8:08:47 PM - ArcPing - Started
+3/30/23, 8:08:54 PM - ArcPing - Failed
+3/30/23, 8:08:54 PM - DnsResolverPresent - Started
+3/30/23, 8:08:55 PM - DnsResolverPresent - Passed
+3/30/23, 8:08:55 PM - DnsResolution - Started
+3/30/23, 8:08:56 PM - DnsResolution - Passed
+3/30/23, 8:08:56 PM - DnsLatency - Started
+3/30/23, 8:08:57 PM - DnsLatency - Passed
+3/30/23, 8:08:57 PM - ArcDnsResolution - Started
+3/30/23, 8:08:58 PM - ArcDnsResolution - Passed
+3/30/23, 8:08:58 PM - SignalStrength - Started
+3/30/23, 8:08:59 PM - SignalStrength - Passed
+3/30/23, 8:08:59 PM - CaptivePortal - Started
+3/30/23, 8:09:00 PM - CaptivePortal - Passed
+3/30/23, 8:09:00 PM - HasSecureWiFiConnection - Started
+
+--- Network Events ---
+
+3/30/23, 8:08:08 PM - WiFi network [D0:57:7B:C0:23:3F] started in state Portal
+3/30/23, 8:08:42 PM - WiFi network [D0:57:7B:C0:23:3F] started in state Online

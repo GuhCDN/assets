@@ -1,0 +1,11 @@
+﻿  This file was dumped from a development IPL cartridge.  Unlike most, this one had no sticker label, just a labelmaker-style sticker on the back in Japanese identifying it as property of Monegi Corp.
+  Unlike Acey's v1.0 build this one is based on a v1.1 IPL.  Note retail IPLs are v1.2 and have a slightly different checksum algorithm.
+  Also unlike Acey's dump, much less of the ROM has been purposefully corrupted to prevent it running standalone.  Instead, this dump has a completely valid checksum.  It only lacks an on-board CIC that provides the proper seed value and countersum.
+
+  Board is an NUS-GC7-X1(Y), (c)1997 Nintendo.  No CIC is present, eeprom and SRAM sockets are empty but there is a battery on the board.
+
+  Maskrom chip reads:
+NUD-JPN-1
+C9747 34011A
+
+  Dumped via ultraSave, 0x400000 bytes from A6000000.

@@ -1,0 +1,3 @@
+﻿  This file was dumped from a development IPL cartridge.  Unlike most, this one had no sticker label, just a labelmaker-style sticker on the back in Japanese identifying it as property of Monegi Corp.
+  Unlike Acey's v1.0 build this one is based on a v1.1 IPL.  Note retail IPLs are v1.2 and have a slightly different checksum algorithm.
+  Also unlike Acey's dump, much less of the ROM has been purposefully corrupte
